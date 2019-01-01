@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\MobileApplications\MathGame\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="F:\MobileApplications\MathGame\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.4.0_1e66a73b602b5a22aad0b13b504bb426c834cee9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\MobileApplications\MathGame\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="F:\MobileApplications\MathGame\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-26.0.0-alpha1_39ba053a7dce0d4be1f9db55ada835403f10847d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\MobileApplications\MathGame\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="F:\MobileApplications\MathGame\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-26.0.0-alpha1_a2c35f8e0bef74f8be63f9e8d585041569e36ec9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\MobileApplications\MathGame\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="F:\MobileApplications\MathGame\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-26.0.0-alpha1_d3c742183628e41d98bc1d5bca252ad48efcd42e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\MobileApplications\MathGame\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="F:\MobileApplications\MathGame\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-26.0.0-alpha1_eb65821b5adefbf15332501d5202f44ccb3d4b11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\MobileApplications\MathGame\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="F:\MobileApplications\MathGame\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-26.0.0-alpha1_7315e2b2fa896d0e8df21dff45b142b99c2e8388.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\MobileApplications\MathGame\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="F:\MobileApplications\MathGame\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.4.0_3b955f1d14964734c6525b2ffcde703e9ae9b7ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\MobileApplications\MathGame\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="F:\MobileApplications\MathGame\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-26.0.0-alpha1_d08d9b2b3bf34306b2645010684ea6bb61bd3f14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\MobileApplications\MathGame\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="F:\MobileApplications\MathGame\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-26.0.0-alpha1_7726ea7441711296ca30ecb29c2f90a64052951b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\MobileApplications\MathGame\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="F:\MobileApplications\MathGame\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.4.0_9fa2009ac8f2099a020d7a13eaf4cda2417b80f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rageeni\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="F:\MobileApplications\MathGame\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_14f930b86f97784b16bb9c015c0c76466bf1f832.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\MobileApplications\MathGame\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="F:\MobileApplications\MathGame\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-26.0.0-alpha1_b2815ec459e9e868c1e3bce3130b3eb70b99cfa2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\MobileApplications\MathGame\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\MobileApplications\MathGame\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-26.0.0-alpha1_1a5023b6b4702494e6737857e4dc55dea225ca1c.jar" />
+    </item>
+
+</items>
